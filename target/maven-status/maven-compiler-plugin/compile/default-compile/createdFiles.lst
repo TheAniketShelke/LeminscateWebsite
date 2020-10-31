@@ -1,0 +1,7 @@
+in\co\leminscate\LeminscateWebsite\model\User.class
+in\co\leminscate\LeminscateWebsite\api\auth\LoginApi.class
+in\co\leminscate\LeminscateWebsite\LeminscateWebsiteApplication.class
+in\co\leminscate\LeminscateWebsite\services\UserService.class
+in\co\leminscate\LeminscateWebsite\repository\UserRepository.class
+in\co\leminscate\LeminscateWebsite\services\IUserService.class
+in\co\leminscate\LeminscateWebsite\ServletInitializer.class
